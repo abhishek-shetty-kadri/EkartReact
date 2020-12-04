@@ -1,0 +1,135 @@
+{
+	"feedBackDetails": [{
+		"id": 1,
+		"pdtCode": "1",
+		"user": "John",
+		"body": "Awesome product at an affordable range. Go for it.",
+		"rating": 4.2
+	},
+	{
+		"id": 2,
+		"pdtCode": "1",
+		"user": "Bekie",
+		"body": "Not upto the mark. Gets heated soon",
+		"rating": 3.7
+	},
+	{
+		"id": 3,
+		"pdtCode": "1",
+		"user": "Calie",
+		"body": "Worst product. First of all , received very late. Forget about it",
+		"rating": 2.7
+	},
+	{
+		"id": 4,
+		"pdtCode": "2",
+		"user": "James",
+		"body": "Looks fine",
+		"rating": 4
+	},
+	{
+		"id": 5,
+		"pdtCode": "2",
+		"user": "Tessie",
+		"body": "good one at this range of price.",
+		"rating": 4.4
+	},
+	{
+		"id": 6,
+		"pdtCode": "2",
+		"user": "Mic",
+		"body": "GPS less accurate. Rest everything is fine.",
+		"rating": 2
+	},
+	{
+		"id": 7,
+		"pdtCode": "3",
+		"user": "Nick",
+		"body": "Good for the climate.",
+		"rating": 4.3
+	},
+	{
+		"id": 8,
+		"pdtCode": "4",
+		"user": "Nancy",
+		"body": "Easy Degrading",
+		"rating": 2
+	},
+	{
+		"id": 9,
+		"pdtCode": "4",
+		"user": "Dave",
+		"body": "Its not fantastic",
+		"rating": 3
+	},
+	{
+		"id": 10,
+		"pdtCode": "2",
+		"user": "David",
+		"body": "Good one in this price range",
+		"rating": "3.5"
+	},
+	{
+		"pdtCode": "3",
+		"user": "Eric",
+		"body": "Nice.",
+		"rating": 3,
+		"id": 11
+	},
+	{
+		"pdtCode": "3",
+		"user": "Taylor",
+		"body": "good.",
+		"rating": 4,
+		"id": 12
+	},
+	{
+		"pdtCode": "3",
+		"user": "Arnold",
+		"body": "nice.",
+		"rating": 4,
+		"id": 13
+	},
+	{
+		"pdtCode": "3",
+		"user": "Sharon",
+		"body": "good one. not bad.",
+		"rating": 3,
+		"id": 14
+	},
+	{
+		"pdtCode": "3",
+		"user": "Philip",
+		"body": "not bad.",
+		"rating": "5",
+		"id": 15
+	},
+	{
+		"pdtCode": "1",
+		"user": "roopa",
+		"body": "average one.",
+		"rating": 3,
+		"id": 17
+	},
+	{
+		"pdtCode": "1",
+		"user": "David",
+		"body": "Good",
+		"rating": 2,
+		"id": 18
+	},
+	{
+		"pdtCode": "1",
+		"user": "Calie",
+		"body": "Excellent and money worth",
+		"rating": "5",
+		"id": 19
+	},
+	{
+		"pdtCode": "4",
+		"user": "Calie",
+		"body": "Average Product",
+		"rating": 2,
+		"id": 20
+	}]
+}
